@@ -143,3 +143,12 @@ input:focus::placeholder {
     background-color: rgb(235, 214, 31);
   }
 }
+
+h3{
+  text-align: center;
+  text-decoration: underline;
+}
+
+p{
+  text-align: center;
+}
